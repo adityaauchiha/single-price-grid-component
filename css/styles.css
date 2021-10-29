@@ -116,6 +116,8 @@ h2 {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
+      align-items: end;
+
   }
 
   .container {
