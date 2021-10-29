@@ -113,10 +113,9 @@ h2 {
     font-family: 'Karla', sans-serif;
     Font-size: 16px;
     display: grid;
-    align-items: center;
     justify-content: center;
     min-height: 100vh;
-      align-items: end;
+    align-items: end;
 
   }
 
